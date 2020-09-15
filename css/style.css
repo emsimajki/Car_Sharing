@@ -60,7 +60,6 @@ nav ul li:hover{
     position: relative;
 }
 .arrow{
-    background-image: url(../images/arrow.png);
     background-position: center;
     background-repeat: no-repeat;
     width: 22px;
@@ -465,4 +464,4 @@ footer .logo{
     font-size: 0.9em;
     color: #D1D1D1;
     margin-right: 5%;
-}
+}}
